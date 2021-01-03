@@ -6,7 +6,7 @@ package refactoring.singleton.example.non_thread_safe;
  * @author: ycbron
  * @create: 2021-01-03 09:32
  **/
-public class Singleton {
+public final class Singleton {
     //在类中添加一个私有静态成员变量用于保存单例实例
     private static Singleton instance;
 
