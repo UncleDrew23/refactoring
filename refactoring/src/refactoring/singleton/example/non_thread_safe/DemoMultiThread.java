@@ -1,7 +1,7 @@
-package refactoring_guru.singleton.example.non_thread_safe;
+package refactoring.singleton.example.non_thread_safe;
 
 /**
- * @program: refactoringguru
+ * @program: refactoring
  * @description: 单例模式（多线程）客户端
  * @author: ycbron
  * @create: 2021-01-03 10:02

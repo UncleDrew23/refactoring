@@ -21,7 +21,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-refactoringguru/refactoringguru.iml
-refactoringguru/.idea/.gitignore
-refactoringguru/.idea/misc.xml
-refactoringguru/.idea/modules.xml
+*.iml
+.idea/
